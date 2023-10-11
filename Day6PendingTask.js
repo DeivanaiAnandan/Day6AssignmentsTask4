@@ -18,3 +18,5 @@ const distance = 10;
 const duration = 20;
 const calcPrice = uberCalc.priceCalc(distance,duration);
 console.log(`Uber price: $${calcPrice}`);
+
+Output: Uber price: $21.00
